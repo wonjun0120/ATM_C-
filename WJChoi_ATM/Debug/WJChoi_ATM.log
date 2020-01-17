@@ -1,0 +1,6 @@
+﻿  ATMachine.cpp
+c:\users\user\desktop\wjchoi_atm\wjchoi_atm\atmachine.cpp(85): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\users\user\desktop\wjchoi_atm\wjchoi_atm\atmachine.cpp(129): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\users\user\desktop\wjchoi_atm\wjchoi_atm\atmachine.cpp(169): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  WJChoi_ATM.vcxproj -> C:\Users\user\Desktop\WJChoi_ATM\Debug\WJChoi_ATM.exe
+  WJChoi_ATM.vcxproj -> C:\Users\user\Desktop\WJChoi_ATM\Debug\WJChoi_ATM.pdb (Full PDB)
